@@ -1,0 +1,22 @@
+body{
+   
+    background-color: beige;
+}
+header{
+    background-color: brown;
+    font-weight: 100;
+}
+main{
+    font-size: medium;
+}
+p{
+    color: rgb(181, 141, 218);
+}
+ol{
+    color: bisque;
+    font-size: large;
+}
+footer h1 p {
+    color:rebeccapurple;
+    text-align: center;
+}
